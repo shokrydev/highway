@@ -1,0 +1,11 @@
+name: highway_env
+
+channels:
+  - conda-forge
+
+dependencies:
+  - pytorch-gpu==2.6.0
+  - torchvision
+  - matplotlib
+  - scikit-learn
+  - jupyterlab
